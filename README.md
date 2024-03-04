@@ -1,4 +1,4 @@
-### Hello Everyone! I'm Theo 👋
+# Hello Everyone! I'm Theo 👋
 
 - :mortar_board: I'm a 3rd year Economics, Finance, and Computer Science student at the **University of Hong Kong**
 - 🌱 I'm currently learning **DevOps** and **Econometrics**
