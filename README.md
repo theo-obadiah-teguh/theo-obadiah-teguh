@@ -1,6 +1,6 @@
 # Hello Everyone! I'm Theo 👋
 
-- :mortar_board: I'm a 3rd year Economics, Finance, and Computer Science student at the **University of Hong Kong**
+- :mortar_board: I'm a 4th year Economics, Finance, and Computer Science student at the **University of Hong Kong**
 - :man_scientist: I'm currently currently working as a **Data Scientist** ***@Oxbridge Economics***
 - 🌱 I have a background in **DevOps** and **Econometrics**
 - 😄 I also love basketball :basketball: and LEGO
