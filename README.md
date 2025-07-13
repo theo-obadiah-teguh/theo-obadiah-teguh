@@ -4,4 +4,4 @@
 - :man_scientist: I'll be doing a **MSc in Statistics** the upcoming academic year!
 - 🌱 My main interests are Econometrics and Machine Learning
 - 😄 I also love basketball :basketball: and LEGO
-- 📫 Feel free to reach out to me via theo.obadiah@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/theo-obadiah-teguh)
+- 📫 Feel free to reach out to me via theo.obadiah@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/theo-obadiah-teguh)
